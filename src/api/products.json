@@ -1,0 +1,27 @@
+[
+  {
+    "id":1,
+    "name": "Chocolates",
+    "image": "./images/img1.jpg",
+    "texto": "Los chocolates Evok son mezclas exóticas de frutas, hierbas y especias desde el 40% al 82% de cacao. Encuentra chocolates amargos y dulces en barra, estuches de bombones surtidos, nibs recubiertos y barras mini."
+  },
+  {
+    "id":2,
+    "name": "Gummies",
+    "image": "./images/img2.jpg",
+    "texto": "Las pastillas de goma (también denominadas gomitas en América o gominolas en España) son caramelos masticables dulces, elaborados a partir de gelatina animal a la que se le añaden edulcorantes, saborizantes y colorantes alimentarios. Llevan un acabado para que no se peguen entre sí, bien abrillantadas y con recubrimientos de azúcar o ácidos. Tienen infinidad de formas: ositos u otros animales, botellas de cola, dedos, ladrillos, anillos, frutas diversas, etc."
+  },
+  {
+    "id":3,
+    "name": "trululu",
+    "image": "./images/img3.jpg",
+    "texto": " Los Productos y precios de trululu. Descubre donde los puedes comprar más económicos. Trululu es una marca de productos de dulces y pasabocas."
+  },
+ 
+  {
+    "id":4,
+    "name": "Super Coco",
+    "image": "./images/img4.jpeg",
+    "texto": "Es mucho más que una golosina, es una tradición hecha con coco natural, su indescriptible sabor hace de Supercoco un producto insuperable. Es un turrón 100% natural, 100% original, 100 % alegre, y 100% colombiano."
+  }
+]
